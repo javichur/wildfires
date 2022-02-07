@@ -11,3 +11,5 @@
 ![Fullscreen map](./assets/map-fullscreen+popup+burnedzone-red.png)
 
 ![Generating dataset with crops pre-fire places automatically](./assets/generating-dataset-before-fires.png)
+
+![before fire vs before no fire](./assets/fire-vs-nofire-gray.png)
