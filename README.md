@@ -5,3 +5,9 @@
 ## This dataset is then used to train a neural network. This neural network will try to classify satellite images between "potential future fire location" and "no future fire location".
 
 ## The objective is to be ready for the response to disasters, thanks to the fact that the most potentially fire-prone places will be known in advance.
+
+![Interactive map](./assets/interactive-map-in-jupyter.png)
+
+![Fullscreen map](./assets/map-fullscreen+popup+burnedzone-red.png)
+
+![Generating dataset with crops pre-fire places automatically](./assets/generating-dataset-before-fires.png)
