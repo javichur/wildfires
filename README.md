@@ -6,6 +6,8 @@
 
 ## The objective is to be ready for the response to disasters, thanks to the fact that the most potentially fire-prone places will be known in advance.
 
+![upload file and predict](./assets/upload-file-and-predict.png)
+
 ![Interactive map](./assets/interactive-map-in-jupyter.png)
 
 ![Fullscreen map](./assets/map-fullscreen+popup+burnedzone-red.png)
